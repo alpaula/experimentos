@@ -1,0 +1,101 @@
+body{
+	background-color: #000;
+}
+header{
+	height: 130px;
+	border-bottom: 1px solid #fff;
+	margin-bottom: -50px;
+}
+h1{
+	color:#ff6eb4;
+	font-size: 90px;
+	text-align: center;
+	font-family: "time";
+	font-style: italic;
+	height: 30px;
+}
+.lubriel{
+	color: #ff6eb4;
+	font-size: 30px;
+	text-align: right;
+	font-family: "time";
+	font-style: italic;
+	height: 30px;
+	margin-bottom: 0px;
+	padding-bottom: 1px;
+}
+main{
+	background-color: #111;
+}
+section{
+	border-bottom: 1px solid #fff;
+}
+.subtitulo{
+	color: #ff6eb4;
+	font-size: 60px;
+	font-family: "time";
+	font-style: italic;
+	height: 30px;
+}
+.texto{
+	color: #fff;
+	font-size: 20px;
+	font-family: "time";
+	font-style: italic;
+	height: 90px;
+	display: block;
+	width: 50%;
+	text-align: center;
+	margin-top: 150px;
+	margin-left: 5%;
+}
+.inicio{
+	height: 28em;
+	width: 18em;
+	display: block;
+	margin-left: 840px;
+	margin-top: -280px;
+	margin-bottom: -57px;
+}
+.legendafoto{
+	color: #fff;
+	font-size: 15px;
+	font-family: "time";
+	width: 10%;
+	margin-left: 87%;
+	margin-top: -30px;
+}
+.subtitulo1{
+	color: #ff6eb4;
+	font-size: 60px;
+	font-family: "time";
+	font-style: italic;
+	height: 30px;
+	margin-top: 1px;
+}
+.namorados{
+	height: 18em;
+	width: 28em;
+	display: block;
+	margin-left: 840px;
+	margin-top: -280px;
+	margin-bottom: 10px;
+	border: #fff 2px solid;
+}
+.subtitulo2{
+	color: #ff6eb4;
+	font-size: 60px;
+	font-family: "time";
+	font-style: italic;
+	height: 30px;
+	margin-top: 1px;
+}
+.ano1{
+	height: 29em;
+	width: 19em;
+	display: block;
+	margin-left: 840px;
+	margin-top: -280px;
+	margin-bottom: -40px;
+	border: #fff 2px solid;
+}
